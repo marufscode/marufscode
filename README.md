@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero-banner.png" alt="MD Maruf Shamim — Aspiring Frontend Developer, Accounts & IT Operations Professional" width="100%" />
+<img src="hero-banner.png" alt="MD Maruf Shamim — Aspiring Fullstack Developer, Accounts & IT Operations Professional" width="100%" />
 
 <br/>
 
