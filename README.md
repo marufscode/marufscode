@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Frontend+Developer;Accounts+%26+IT+Operations+Professional;Turning+real-world+problems+into+digital+solutions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Fullstack+Developer;Accounts+%26+IT+Operations+Professional;Turning+real-world+problems+into+digital+solutions." alt="Typing SVG" />
 
 📍 Daudkandi, Cumilla, Bangladesh&nbsp;&nbsp;•&nbsp;&nbsp;🧑 He/Him&nbsp;&nbsp;•&nbsp;&nbsp;🌐 <a href="https://marufshamim.dev/">marufshamim.dev</a>
 
